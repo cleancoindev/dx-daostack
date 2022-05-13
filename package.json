@@ -73,7 +73,7 @@
     "rxjs": "^6.5.2",
     "scrypt": "^6.0.3",
     "truffle-contract": "^4.0.19",
-    "truffle-hdwallet-provider": "^1.0.10",
+    "truffle-hdwallet-provider": "^1.0.17",
     "web3": "^1.0.0-beta.55"
   }
 }
