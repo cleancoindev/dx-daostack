@@ -70,7 +70,7 @@
     "json2csv": "^4.5.1",
     "prettier": "^1.17.1",
     "prettier-plugin-solidity-refactor": "^1.0.0-alpha.14",
-    "rxjs": "^6.5.2",
+    "rxjs": "^6.6.7",
     "scrypt": "^6.0.3",
     "truffle-contract": "^4.0.19",
     "truffle-hdwallet-provider": "^1.0.10",
