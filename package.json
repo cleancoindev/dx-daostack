@@ -65,7 +65,7 @@
     "@gnosis.pm/gno-token": "^2.0.0",
     "@gnosis.pm/owl-token": "^2.0.0",
     "@gnosis.pm/util-contracts": "^2.0.1",
-    "debug": "^4.1.1",
+    "debug": "^4.3.4",
     "fs-extra": "^8.0.1",
     "json2csv": "^4.5.1",
     "prettier": "^1.17.1",
